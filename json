@@ -1,5 +1,4 @@
-{
-  "groups" = [
+[
     {
         "id"= 1,
         "groupName"= "The Best Bowlers",
@@ -45,5 +44,4 @@
         "name"= "John",
         "email" = "John@gmail.com
       }
-  ]
-}
+]
