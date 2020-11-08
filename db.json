@@ -1,9 +1,9 @@
-[
+{
+    "groups": [
     {
         "id": 1,
         "groupName": "The Best Bowlers",
         "groupDescription" : "If you bowl under 300, don't even think about it",
-        "groupTotal": 4,
         "groupTotal": 4,
         "name": "Toto",
         "email" : "asdf@gmail.com"
@@ -15,7 +15,6 @@
         "groupName": "Ticket to Ride",
         "groupDescription" : "All Aboard!!!!",
         "groupTotal": 5,
-        "groupTotal": 5,
         "name": "Totoe",
         "email" : "aerf@gmail.com"
     },
@@ -23,7 +22,6 @@
         "id": 3,
         "groupName": "The Literal Settlers of the Place Catan",
         "groupDescription" : "We pioneer the paths the others will soon follow, join us!",
-        "groupTotal": 4,
         "groupTotal": 4,
         "name": "Doto",
         "email" : "fda@gmail.com"
@@ -33,7 +31,6 @@
         "groupName": "Cool Group",
         "groupDescription" : "Don't make me snap my fingers in a Z formation",
         "groupTotal": 8,
-        "groupTotal": 8,
         "name": "Tooog",
         "email" : "Toog@gmail.com"
     },
@@ -42,8 +39,8 @@
         "groupName": "Touchdown Tigers",
         "groupDescription" : "Eat, Pray, Football",
         "groupTotal": 3,
-        "groupTotal": 3,
         "name": "John",
         "email" : "John@gmail.com"
     }
-]
+    ]
+}
