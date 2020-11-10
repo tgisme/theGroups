@@ -41,6 +41,22 @@
         "groupTotal": 3,
         "name": "John",
         "email" : "John@gmail.com"
+    },
+    {
+       "id": 6,
+       "groupName": "Chelsea's Book Club",
+       "groupDescription" : "We are the Learning Ladies",
+       "groupTotal": 6,
+       "name": "Chelsea",
+       "email" : "Chelsea@gmail.com"
+    },
+    {
+       "id": 7,
+       "groupName": "After School Hangout",
+       "groupDescription" : "There's nothing better to do.",
+       "groupTotal": 3,
+       "name": "Chad",
+       "email" : "Chad@gmail.com"
     }
     ]
 }
