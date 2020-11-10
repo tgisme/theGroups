@@ -40,7 +40,7 @@
         "groupDescription" : "Eat, Pray, Football",
         "groupTotal": 3,
         "name": "John",
-        "email" : "John@gmail.com"
+        "email" : "JohnnyStripes@gmail.com"
     },
     {
        "id": 6,
@@ -48,7 +48,7 @@
        "groupDescription" : "We are the Learning Ladies",
        "groupTotal": 6,
        "name": "Chelsea",
-       "email" : "Chelsea@gmail.com"
+       "email" : "ChelseaBook@gmail.com"
     },
     {
        "id": 7,
@@ -56,7 +56,47 @@
        "groupDescription" : "There's nothing better to do.",
        "groupTotal": 3,
        "name": "Chad",
-       "email" : "Chad@gmail.com"
+       "email" : "Chad00@gmail.com"
+    },
+    {
+       "id": 8,
+       "groupName": "#GirlsNightOut",
+       "groupDescription" : "These social butterflies need space to stretch",
+       "groupTotal": 6,
+       "name": "Livy",
+       "email" : "Olivia@gmail.com"
+    },
+    {
+       "id": 9,
+       "groupName": "Dance Teachers",
+       "groupDescription" : "Dancer is the meaning of life",
+       "groupTotal": 12,
+       "name": "Shawna",
+       "email" : "Shawndya@gmail.com"
+    },
+    {
+       "id": 10,
+       "groupName": "Fight Against Drugs",
+       "groupDescription" : "If we don't fight, they win",
+       "groupTotal": 15,
+       "name": "Tom",
+       "email" : "Tom@gmail.com"
+    },
+    {
+       "id": 11,
+       "groupName": "Shopaholics",
+       "groupDescription" : "Downeast, Kohl's, Old Navy, American Eagle lovers",
+       "groupTotal": 7,
+       "name": "Cindy",
+       "email" : "Cindy@gmail.com"
+    },
+    {
+       "id": 12,
+       "groupName": "Counsel of Dads",
+       "groupDescription" : "Superdads",
+       "groupTotal": 3,
+       "name": "Timmy",
+       "email" : "Tim@gmail.com"
     }
     ]
 }
