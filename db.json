@@ -2,10 +2,12 @@
     "groups": [
     {
         "id": 1,
-        "groupName": "The Best Bowlers",
-        "groupDescription" : "If you bowl under 300, don't even think about it",
-        "category" : "Sports",
-        "groupTotal": 4,
+        "group": {
+            "groupName": "The Best Bowlers",
+            "groupDescription" : "If you bowl under 300, don't even think about it",
+            "category" : "Sports",
+            "groupTotal": 4
+        },
         "name": "Toto",
         "email" : "asdf@gmail.com"
     },
@@ -13,100 +15,122 @@
 
     
         "id": 2,
-        "groupName": "Ticket to Ride",
-        "groupDescription" : "All Aboard!!!!",
-        "category" : "Board Games",
-        "groupTotal": 5,
+        "group": {
+            "groupName": "Ticket to Ride",
+            "groupDescription" : "All Aboard!!!!",
+            "category" : "Board Games",
+            "groupTotal": 5
+        }
         "name": "Totoe",
         "email" : "aerf@gmail.com"
     },
     {
         "id": 3,
-        "groupName": "The Literal Settlers of the Place Catan",
-        "groupDescription" : "We pioneer the paths the others will soon follow, join us!",
-        "category" : "Board Games",
-        "groupTotal": 4,
+        "group": {
+            "groupName": "The Literal Settlers of the Place Catan",
+            "groupDescription" : "We pioneer the paths the others will soon follow, join us!",
+            "category" : "Board Games",
+            "groupTotal": 4
+        }
         "name": "Doto",
         "email" : "fda@gmail.com"
     },
     {
         "id": 4,
-        "groupName": "Cool Group",
-        "groupDescription" : "Don't make me snap my fingers in a Z formation",
-        "category" : "Misc",
-        "groupTotal": 8,
+        "group": {
+            "groupName": "Cool Group",
+            "groupDescription" : "Don't make me snap my fingers in a Z formation",
+            "category" : "Misc",
+            "groupTotal": 8
+        }
         "name": "Tooog",
         "email" : "Toog@gmail.com"
     },
     {
         "id": 5,
-        "groupName": "Touchdown Tigers",
-        "groupDescription" : "Eat, Pray, Football",
-        "category" : "Sports",
-        "groupTotal": 3,
+        "group": {
+            "groupName": "Touchdown Tigers",
+            "groupDescription" : "Eat, Pray, Football",
+            "category" : "Sports",
+            "groupTotal": 3
+        }
         "name": "John",
         "email" : "JohnnyStripes@gmail.com"
     },
     {
        "id": 6,
-       "groupName": "Chelsea's Book Club",
-       "groupDescription" : "We are the Learning Ladies",
-        "category" : "Books",
-       "groupTotal": 6,
+       "group": {
+           "groupName": "Chelsea's Book Club",
+           "groupDescription" : "We are the Learning Ladies",
+           "category" : "Books",
+           "groupTotal": 6
+       }
        "name": "Chelsea",
        "email" : "ChelseaBook@gmail.com"
     },
     {
        "id": 7,
-       "groupName": "After School Hangout",
-       "groupDescription" : "There's nothing better to do.",
-        "category" : "Misc",
-       "groupTotal": 3,
+        "group": {
+           "groupName": "After School Hangout",
+           "groupDescription" : "There's nothing better to do.",
+           "category" : "Misc",
+           "groupTotal": 3
+        }
        "name": "Chad",
        "email" : "Chad00@gmail.com"
     },
     {
        "id": 8,
-       "groupName": "#GirlsNightOut",
-       "groupDescription" : "These social butterflies need space to stretch",
-        "category" : "Misc",
-       "groupTotal": 6,
+        "group": {
+           "groupName": "#GirlsNightOut",
+           "groupDescription" : "These social butterflies need space to stretch",
+           "category" : "Misc",
+           "groupTotal": 6
+       }
        "name": "Livy",
        "email" : "Olivia@gmail.com"
     },
     {
        "id": 9,
-       "groupName": "Dance Teachers",
-       "groupDescription" : "Dance is the meaning of life",
-        "category" : "Dance",
-       "groupTotal": 12,
+        "group": {
+           "groupName": "Dance Teachers",
+           "groupDescription" : "Dance is the meaning of life",
+           "category" : "Dance",
+           "groupTotal": 12
+       }
        "name": "Shawna",
        "email" : "Shawndya@gmail.com"
     },
     {
        "id": 10,
-       "groupName": "Fight Against Drugs",
-       "groupDescription" : "If we don't fight, they win",
-        "category" : "Misc",
-       "groupTotal": 15,
+       "group": {
+           "groupName": "Fight Against Drugs",
+           "groupDescription" : "If we don't fight, they win",
+           "category" : "Misc",
+           "groupTotal": 15
+       }
        "name": "Tom",
        "email" : "Tom@gmail.com"
     },
     {
        "id": 11,
-       "groupName": "Shopaholics",
-       "groupDescription" : "Downeast, Kohl's, Old Navy, American Eagle lovers",
-        "category" : "Misc",
-       "groupTotal": 7,
+       "group": {
+           "groupName": "Shopaholics",
+           "groupDescription" : "Downeast, Kohl's, Old Navy, American Eagle lovers",
+           "category" : "Misc",
+           "groupTotal": 7
+       }
        "name": "Cindy",
        "email" : "Cindy@gmail.com"
     },
     {
        "id": 12,
-       "groupName": "Counsel of Dads",
-       "groupDescription" : "Superdads",
-        "category" : "Misc",
-       "groupTotal": 3,
+        "group": {
+           "groupName": "Counsel of Dads",
+           "groupDescription" : "Superdads",
+            "category" : "Misc",
+           "groupTotal": 3
+       }
        "name": "Timmy",
        "email" : "Tim@gmail.com"
     }
