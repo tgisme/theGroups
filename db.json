@@ -20,7 +20,7 @@
             "groupDescription" : "All Aboard!!!!",
             "category" : "Board Games",
             "groupTotal": 5
-        }
+        },
         "name": "Totoe",
         "email" : "aerf@gmail.com"
     },
@@ -31,7 +31,7 @@
             "groupDescription" : "We pioneer the paths the others will soon follow, join us!",
             "category" : "Board Games",
             "groupTotal": 4
-        }
+        },
         "name": "Doto",
         "email" : "fda@gmail.com"
     },
@@ -42,7 +42,7 @@
             "groupDescription" : "Don't make me snap my fingers in a Z formation",
             "category" : "Misc",
             "groupTotal": 8
-        }
+        },
         "name": "Tooog",
         "email" : "Toog@gmail.com"
     },
@@ -53,7 +53,7 @@
             "groupDescription" : "Eat, Pray, Football",
             "category" : "Sports",
             "groupTotal": 3
-        }
+        },
         "name": "John",
         "email" : "JohnnyStripes@gmail.com"
     },
@@ -64,7 +64,7 @@
            "groupDescription" : "We are the Learning Ladies",
            "category" : "Books",
            "groupTotal": 6
-       }
+       },
        "name": "Chelsea",
        "email" : "ChelseaBook@gmail.com"
     },
@@ -75,7 +75,7 @@
            "groupDescription" : "There's nothing better to do.",
            "category" : "Misc",
            "groupTotal": 3
-        }
+        },
        "name": "Chad",
        "email" : "Chad00@gmail.com"
     },
@@ -86,7 +86,7 @@
            "groupDescription" : "These social butterflies need space to stretch",
            "category" : "Misc",
            "groupTotal": 6
-       }
+       },
        "name": "Livy",
        "email" : "Olivia@gmail.com"
     },
@@ -97,7 +97,7 @@
            "groupDescription" : "Dance is the meaning of life",
            "category" : "Dance",
            "groupTotal": 12
-       }
+       },
        "name": "Shawna",
        "email" : "Shawndya@gmail.com"
     },
@@ -108,7 +108,7 @@
            "groupDescription" : "If we don't fight, they win",
            "category" : "Misc",
            "groupTotal": 15
-       }
+       },
        "name": "Tom",
        "email" : "Tom@gmail.com"
     },
@@ -119,7 +119,7 @@
            "groupDescription" : "Downeast, Kohl's, Old Navy, American Eagle lovers",
            "category" : "Misc",
            "groupTotal": 7
-       }
+       },
        "name": "Cindy",
        "email" : "Cindy@gmail.com"
     },
@@ -130,7 +130,7 @@
            "groupDescription" : "Superdads",
             "category" : "Misc",
            "groupTotal": 3
-       }
+       },
        "name": "Timmy",
        "email" : "Tim@gmail.com"
     }
